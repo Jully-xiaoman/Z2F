@@ -20,4 +20,10 @@ We use JSON format to store the extracted raw data，api data not uploaded due t
 # file:hadmard_normalize.py
 Refer to the paper 's original formula (1) ,formula (2);
 
+# model
+The model is based on [HAN](https://github.com/Jhy1993/HAN)
+
+# embedding
+the samples's data after Z2F
+
 
